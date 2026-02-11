@@ -182,3 +182,9 @@ GitHub Actions runs:
 4. Full test suite (RSpec with Capybara)
 
 Always run lint commands before pushing to origin.
+
+## Skills
+
+- `inertia-rails-react-builder`: Use this skill when building or
+  modifying Rails + Inertia.js + React features in this starter kit.
+  (file: `skills/inertia-rails-react-builder/SKILL.md`)
